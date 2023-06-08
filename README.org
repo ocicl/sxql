@@ -1,0 +1,9 @@
+* sxql
+
+An SQL generator for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/sxql.git |
+| commit  | cc3478c                                   |
+| systems | sxql                                      |
+|---------+-------------------------------------------|
