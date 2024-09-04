@@ -4,6 +4,6 @@ An SQL generator for Common Lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/fukamachi/sxql.git |
-| commit  | c79c252                                   |
+| commit  | 2a9121b                                   |
 | systems | sxql                                      |
 |---------+-------------------------------------------|
