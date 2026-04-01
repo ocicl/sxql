@@ -7,3 +7,4 @@ An SQL generator for Common Lisp.
 | commit  | 72c1c8c                                   |
 | systems | sxql                                      |
 |---------+-------------------------------------------|
+ 
